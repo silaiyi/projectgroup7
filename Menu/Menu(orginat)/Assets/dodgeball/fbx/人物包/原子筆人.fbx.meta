@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 127bb1e58376f0448a5c4a47e22d59f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cone001
+    100002: Cylinder001
+    100004: Cylinder002
+    100006: Cylinder003
+    100008: Cylinder004
+    100010: //RootNode
+    100012: "\u53F3\u624B"
+    100014: "\u53F3\u7709"
+    100016: "\u53F3\u773C"
+    100018: "\u53F3\u8173"
+    100020: "\u58A8\u6C34"
+    100022: "\u58A8\u6C34\u7BA1"
+    100024: "\u5DE6\u624B"
+    100026: "\u5DE6\u7709"
+    100028: "\u5DE6\u773C"
+    100030: "\u5DE6\u8173"
+    100032: "\u7B46\u84CB"
+    100034: "\u7B46\u84CB2"
+    100036: "\u7B46\u84CB3"
+    100038: "\u7B46\u84CB4"
+    100040: "\u7B46\u982D"
+    100042: "\u9632\u6ED1"
+    400000: Cone001
+    400002: Cylinder001
+    400004: Cylinder002
+    400006: Cylinder003
+    400008: Cylinder004
+    400010: //RootNode
+    400012: "\u53F3\u624B"
+    400014: "\u53F3\u7709"
+    400016: "\u53F3\u773C"
+    400018: "\u53F3\u8173"
+    400020: "\u58A8\u6C34"
+    400022: "\u58A8\u6C34\u7BA1"
+    400024: "\u5DE6\u624B"
+    400026: "\u5DE6\u7709"
+    400028: "\u5DE6\u773C"
+    400030: "\u5DE6\u8173"
+    400032: "\u7B46\u84CB"
+    400034: "\u7B46\u84CB2"
+    400036: "\u7B46\u84CB3"
+    400038: "\u7B46\u84CB4"
+    400040: "\u7B46\u982D"
+    400042: "\u9632\u6ED1"
+    2100000: 19 - Glass (Thin wall)
+    2100002: No Name
+    2100004: Solid Glass
+    2100006: 03 - Default
+    2100008: 18 - Rubber
+    2300000: Cone001
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: //RootNode
+    2300012: "\u53F3\u624B"
+    2300014: "\u53F3\u7709"
+    2300016: "\u53F3\u773C"
+    2300018: "\u53F3\u8173"
+    2300020: "\u58A8\u6C34"
+    2300022: "\u58A8\u6C34\u7BA1"
+    2300024: "\u5DE6\u624B"
+    2300026: "\u5DE6\u7709"
+    2300028: "\u5DE6\u773C"
+    2300030: "\u5DE6\u8173"
+    2300032: "\u7B46\u84CB"
+    2300034: "\u7B46\u84CB2"
+    2300036: "\u7B46\u84CB3"
+    2300038: "\u7B46\u84CB4"
+    2300040: "\u7B46\u982D"
+    2300042: "\u9632\u6ED1"
+    3300000: Cone001
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: //RootNode
+    3300012: "\u53F3\u624B"
+    3300014: "\u53F3\u7709"
+    3300016: "\u53F3\u773C"
+    3300018: "\u53F3\u8173"
+    3300020: "\u58A8\u6C34"
+    3300022: "\u58A8\u6C34\u7BA1"
+    3300024: "\u5DE6\u624B"
+    3300026: "\u5DE6\u7709"
+    3300028: "\u5DE6\u773C"
+    3300030: "\u5DE6\u8173"
+    3300032: "\u7B46\u84CB"
+    3300034: "\u7B46\u84CB2"
+    3300036: "\u7B46\u84CB3"
+    3300038: "\u7B46\u84CB4"
+    3300040: "\u7B46\u982D"
+    3300042: "\u9632\u6ED1"
+    4300000: "\u8EAB\u9AD4"
+    4300002: Cylinder002
+    4300004: Cylinder001
+    4300006: "\u7B46\u84CB"
+    4300008: "\u7B46\u84CB2"
+    4300010: "\u7B46\u84CB3"
+    4300012: "\u7B46\u84CB4"
+    4300014: "\u7B46\u982D"
+    4300016: Cone001
+    4300018: Cylinder003
+    4300020: Cylinder004
+    4300022: "\u9632\u6ED1"
+    4300024: "\u58A8\u6C34\u7BA1"
+    4300026: "\u58A8\u6C34"
+    4300028: "\u53F3\u8173"
+    4300030: "\u53F3\u7709"
+    4300032: "\u53F3\u624B"
+    4300034: "\u53F3\u773C"
+    4300036: "\u5DE6\u8173"
+    4300038: "\u5DE6\u7709"
+    4300040: "\u5DE6\u624B"
+    4300042: "\u5DE6\u773C"
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 155fcd3626097714a98af90a0d4c9861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Rubber
+    second: {fileID: 2100000, guid: 4e22a3e8c0a096845bd7bfb351f044b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Glass (Thin wall)
+    second: {fileID: 2100000, guid: bdffc0c15c5ece747adf476fb33ef8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 26f0b65f1d6330c4db386e3333ee64a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: 12801a301caca3d46a4e91888252683a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      parentName: 
+      position: {x: -0, y: 0.1524, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder002
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder001
+      parentName: Cylinder002
+      position: {x: -0, y: 0, z: -0.0254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u7B46\u84CB"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u7B46\u84CB2"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.2954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u7B46\u84CB3"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.397}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u7B46\u84CB4"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.27}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u7B46\u982D"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cone001
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.0922}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder003
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.2264981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder004
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 1.2975876}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u9632\u6ED1"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 0.6858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u58A8\u6C34\u7BA1"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 0.254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u58A8\u6C34"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0, y: 0, z: 0.38099998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u8173"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: 0.3392467, y: -0.12375119, z: -0.1524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u7709"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: 0.08828404, y: -0.1780807, z: 1.2449046}
+      rotation: {x: 0, y: -0.21433753, z: -0, w: 0.9767597}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u624B"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: 0.38099998, y: 0, z: 0.7366}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u773C"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: 0.057353694, y: -0.18484695, z: 1.0970575}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u8173"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0.33123213, y: -0.12375119, z: -0.1524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u7709"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0.085785754, y: -0.1780807, z: 1.2449046}
+      rotation: {x: 0, y: 0.23544544, z: -0, w: 0.9718876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u624B"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0.38099998, y: 0, z: 0.7366}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u773C"
+      parentName: "\u539F\u5B50\u7B46\u4EBA(Clone)"
+      position: {x: -0.06127986, y: -0.18484695, z: 1.0970575}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
