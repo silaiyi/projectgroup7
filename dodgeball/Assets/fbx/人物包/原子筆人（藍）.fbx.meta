@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: da6c2d5d9ef0d5a4a9c05bc54eb14295
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder002
+    100002: Cylinder005
+    100004: Cylinder006
+    100006: Tube002
+    100008: //RootNode
+    100010: "\u53F3\u624B"
+    100012: "\u53F3\u7709"
+    100014: "\u53F3\u773C"
+    100016: "\u53F3\u8173"
+    100018: "\u58A8\u6C34"
+    100020: "\u58A8\u6C34\u7BA1"
+    100022: "\u5DE6\u624B"
+    100024: "\u5DE6\u7709"
+    100026: "\u5DE6\u773C"
+    100028: "\u5DE6\u8173"
+    100030: "\u7B46\u84CB"
+    100032: "\u7B46\u982D"
+    100034: "\u8EAB\u9AD4"
+    100036: "\u9632\u6ED1"
+    400000: Cylinder002
+    400002: Cylinder005
+    400004: Cylinder006
+    400006: Tube002
+    400008: //RootNode
+    400010: "\u53F3\u624B"
+    400012: "\u53F3\u7709"
+    400014: "\u53F3\u773C"
+    400016: "\u53F3\u8173"
+    400018: "\u58A8\u6C34"
+    400020: "\u58A8\u6C34\u7BA1"
+    400022: "\u5DE6\u624B"
+    400024: "\u5DE6\u7709"
+    400026: "\u5DE6\u773C"
+    400028: "\u5DE6\u8173"
+    400030: "\u7B46\u84CB"
+    400032: "\u7B46\u982D"
+    400034: "\u8EAB\u9AD4"
+    400036: "\u9632\u6ED1"
+    2100000: No Name
+    2100002: 19 - Glass (Thin wall)
+    2100004: 03 - Default
+    2100006: Solid Glass
+    2100008: 18 - Rubber
+    2300000: Cylinder002
+    2300002: Cylinder005
+    2300004: Cylinder006
+    2300006: Tube002
+    2300008: "\u53F3\u624B"
+    2300010: "\u53F3\u7709"
+    2300012: "\u53F3\u773C"
+    2300014: "\u53F3\u8173"
+    2300016: "\u58A8\u6C34"
+    2300018: "\u58A8\u6C34\u7BA1"
+    2300020: "\u5DE6\u624B"
+    2300022: "\u5DE6\u7709"
+    2300024: "\u5DE6\u773C"
+    2300026: "\u5DE6\u8173"
+    2300028: "\u7B46\u84CB"
+    2300030: "\u7B46\u982D"
+    2300032: "\u8EAB\u9AD4"
+    2300034: "\u9632\u6ED1"
+    3300000: Cylinder002
+    3300002: Cylinder005
+    3300004: Cylinder006
+    3300006: Tube002
+    3300008: "\u53F3\u624B"
+    3300010: "\u53F3\u7709"
+    3300012: "\u53F3\u773C"
+    3300014: "\u53F3\u8173"
+    3300016: "\u58A8\u6C34"
+    3300018: "\u58A8\u6C34\u7BA1"
+    3300020: "\u5DE6\u624B"
+    3300022: "\u5DE6\u7709"
+    3300024: "\u5DE6\u773C"
+    3300026: "\u5DE6\u8173"
+    3300028: "\u7B46\u84CB"
+    3300030: "\u7B46\u982D"
+    3300032: "\u8EAB\u9AD4"
+    3300034: "\u9632\u6ED1"
+    4300000: "\u5DE6\u8173"
+    4300002: "\u53F3\u8173"
+    4300004: "\u53F3\u624B"
+    4300006: "\u5DE6\u624B"
+    4300008: "\u53F3\u773C"
+    4300010: "\u5DE6\u773C"
+    4300012: "\u53F3\u7709"
+    4300014: "\u5DE6\u7709"
+    4300016: "\u8EAB\u9AD4"
+    4300018: Cylinder002
+    4300020: "\u58A8\u6C34\u7BA1"
+    4300022: "\u58A8\u6C34"
+    4300024: "\u7B46\u982D"
+    4300026: "\u7B46\u84CB"
+    4300028: Cylinder006
+    4300030: Cylinder005
+    4300032: Tube002
+    4300034: "\u9632\u6ED1"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 155fcd3626097714a98af90a0d4c9861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Rubber
+    second: {fileID: 2100000, guid: 4e22a3e8c0a096845bd7bfb351f044b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Glass (Thin wall)
+    second: {fileID: 2100000, guid: bdffc0c15c5ece747adf476fb33ef8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 26f0b65f1d6330c4db386e3333ee64a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: 12801a301caca3d46a4e91888252683a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
